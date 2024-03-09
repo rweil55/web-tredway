@@ -1,7 +1,7 @@
 
 cd /inetpub/wwwroot/w/tredway
 git add .
-git commit -m "from indesign 2024-02-27 17:49" --no-edit
+git commit -m "from indesign 2024-03-09 15:06" --no-edit
 git push https://github.com/rweil55/web-tredway
 
 rem wait for one minute to allow git hub to get its act together
